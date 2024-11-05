@@ -16,5 +16,5 @@ I also enjoy playing around with graphics and VFX in Photoshop, Blender, and Aft
 
 <div>
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=siliconecb&theme=dark&hide_border=true" alt="siliconecb" />
-  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siliconecb&layout=compact&theme=dark&hide_border=true" alt="siliconecb" />
+<!--   <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siliconecb&layout=compact&theme=dark&hide_border=true" alt="siliconecb" /> -->
 </div>
