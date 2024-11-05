@@ -3,9 +3,7 @@
 ![views](https://views-counter.vercel.app/badge?pageId=siliconecb&leftColor=000000&rightColor=262626&type=total&label=Profile%20Views&style=none)
 
 
-
-
-[![me website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://siliconecb.cc)](https://siliconecb.cc)
+[![me website](https://img.shields.io/badge/website-siliconecb.cc-lightgray)](https://siliconecb.cc)
 [![follow me](https://img.shields.io/github/followers/siliconecb?label=Follow&style=social)](https://github.com/siliconecb)
 
  I'm an amateur web developer with just under 3 years of experience, I got into programming through Scratch in elementary school, and my life has never been the same! My favorite programming language is Svelte, which is the framework running the website you're looking at right now!
