@@ -1,6 +1,6 @@
 # hi, i'm siliconecb_
 
-![views](https://views-counter.vercel.app/badge?pageId=siliconecb&leftColor=000000&rightColor=262626&type=total&label=Profile%20Views&style=none)
+![views](https://komarev.com/ghpvc/?username=siliconecb&&style=flat-square)
 
 
 [![me website](https://img.shields.io/badge/website-siliconecb.cc-lightgray)](https://siliconecb.cc)
