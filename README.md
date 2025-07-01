@@ -3,9 +3,9 @@
 ![views](https://komarev.com/ghpvc/?username=siliconecb&&style=flat-square)
 
 
-[![me website](https://img.shields.io/badge/website-siliconecb.cc-lightgray)](https://siliconecb.cc)
+[![me website](https://img.shields.io/badge/website-siliconecb.dev-lightgray)](https://siliconecb.dev)
 
-mainly coding hobby websites and robots for FRC
+mainly coding random websites and robots for FRC
 
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
